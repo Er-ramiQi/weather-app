@@ -1,0 +1,22 @@
+# Java and Gradle
+**/.gradle/
+**/build/
+**/out/
+*.class
+
+# Angular and Node.js
+**/node_modules/
+**/dist/
+**/.angular/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating system
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
